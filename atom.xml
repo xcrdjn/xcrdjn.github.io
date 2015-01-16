@@ -4,7 +4,7 @@
   <subtitle><![CDATA[学习，积累，提高，感悟，前进。。。]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://xcrdjn.github.io/"/>
-  <updated>2015-01-15T03:38:18.918Z</updated>
+  <updated>2015-01-16T06:15:43.163Z</updated>
   <id>http://xcrdjn.github.io/</id>
   
   <author>
@@ -13,6 +13,28 @@
   </author>
   
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[这不是任天堂DS掌机：而是一台基于树莓派的Linux终端]]></title>
+    <link href="http://xcrdjn.github.io/2015/01/16/%E8%BF%99%E4%B8%8D%E6%98%AF%E4%BB%BB%E5%A4%A9%E5%A0%82DS%E6%8E%8C%E6%9C%BA%EF%BC%9A%E8%80%8C%E6%98%AF%E4%B8%80%E5%8F%B0%E5%9F%BA%E4%BA%8E%E6%A0%91%E8%8E%93%E6%B4%BE%E7%9A%84Linux%E7%BB%88%E7%AB%AF/"/>
+    <id>http://xcrdjn.github.io/2015/01/16/这不是任天堂DS掌机：而是一台基于树莓派的Linux终端/</id>
+    <published>2015-01-16T05:48:15.000Z</published>
+    <updated>2015-01-16T06:15:31.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://www.cnbeta.com/articles/363073.htm" target="_blank" rel="external">(摘自 CNBeta)</a></p>
+<blockquote>
+<p>对于爱折腾的极客们来说，打造一台与众不总的Linux终端，绝对是一件既好玩又很有成就感的事情。本文要介绍的，就是来自Chris Robinson的一款“小掌机”。但是你千万别误会，虽然看起来像是一台任天堂的DS掌机，但实际上，这是一台基于树莓派的Linux终端。Robinson表示，作为一款工具，它很适合用来学习命令行和脚本。<br><img src="http://static.cnbetacdn.com/article/2015/0116/8f6a243e2e7aaea.png" alt=""><br><a id="more"></a><br>Chris Robinson在n-o-d-e.net上留下了一篇有趣的教程(文章的主页采用了黑色背景+蓝色文字的命令行风格)。<br><img src="http://static.cnbetacdn.com/article/2015/0116/a018ee994c728f9.jpg" alt=""><br>除了照片(点击链接可查看到)之外，教程中还给出了零部件清单。感兴趣的网友可以自行DIY一台。<br><img src="http://static.cnbetacdn.com/article/2015/0116/928b801b6520a2e.jpg" alt=""><br>有趣的是，Robinson还表示，他希望将该项目扩展到一台开源的触屏手机上(通过Adafruit的Fona一体式手机模块)。<br><img src="http://static.cnbetacdn.com/article/2015/0116/024749fa3b60242.jpg" alt=""><br>侧面接口特写</p>
+</blockquote>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><a href="http://www.cnbeta.com/articles/363073.htm" target="_blank" rel="external">(摘自 CNBeta)</a></p>
+<blockquote>
+<p>对于爱折腾的极客们来说，打造一台与众不总的Linux终端，绝对是一件既好玩又很有成就感的事情。本文要介绍的，就是来自Chris Robinson的一款“小掌机”。但是你千万别误会，虽然看起来像是一台任天堂的DS掌机，但实际上，这是一台基于树莓派的Linux终端。Robinson表示，作为一款工具，它很适合用来学习命令行和脚本。<br><img src="http://static.cnbetacdn.com/article/2015/0116/8f6a243e2e7aaea.png" alt=""><br>]]>
+    
+    </summary>
+    
+      <category term="资讯" scheme="http://xcrdjn.github.io/tags/%E8%B5%84%E8%AE%AF/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[增长的极限？研究显示人类文明或正走向崩溃]]></title>
