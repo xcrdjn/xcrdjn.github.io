@@ -4,7 +4,7 @@
   <subtitle><![CDATA[学习，积累，提高，感悟，前进。。。]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://xcrdjn.github.io/"/>
-  <updated>2015-03-06T06:33:44.011Z</updated>
+  <updated>2015-03-06T08:41:11.506Z</updated>
   <id>http://xcrdjn.github.io/</id>
   
   <author>
@@ -13,6 +13,39 @@
   </author>
   
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[[图+视频]Ringo：只有手掌般大小的“萌宠”机器人]]></title>
+    <link href="http://xcrdjn.github.io/2015/03/06/%E5%8F%AA%E6%9C%89%E6%89%8B%E6%8E%8C%E8%88%AC%E5%A4%A7%E5%B0%8F%E7%9A%84%E2%80%9C%E8%90%8C%E5%AE%A0%E2%80%9D%E6%9C%BA%E5%99%A8%E4%BA%BA/"/>
+    <id>http://xcrdjn.github.io/2015/03/06/只有手掌般大小的“萌宠”机器人/</id>
+    <published>2015-03-06T08:36:52.000Z</published>
+    <updated>2015-03-06T08:41:08.000Z</updated>
+    <content type="html"><![CDATA[<blockquote>
+<p>虽然机器宠物已然不是什么陌生的东西，但不得不承认，它们大部分长得还不够可爱甚至有些吓人。<strong>现在，伴随着技术的发展，机器宠物自然也要改变改变，起码它要成为“够资格”的宠物，日前出现在Kickstarter上的Ringo就符合了这个要求。</strong>Ringo看起来像是一只大型甲虫，借助于其体内安装的各种各样的传感器及电子配件，人们可以跟它尽情地“玩耍”了。</p>
+</blockquote>
+<p><img src="http://static.cnbetacdn.com/thumb/article/2015/0306/3e21b5dcb3e35d3.jpg_600x600.jpg" alt=""></p>
+<p><img src="http://static.cnbetacdn.com/thumb/article/2015/0306/6b90f6de08856c7.png_600x600.png" alt=""></p>
+<a id="more"></a>
+
+<p>据了解，Ringo用了一块Arduino UNO处理器，另外它的主要配件还有一个三轴加速传感器、三轴陀螺仪、环境光传感器、六盏RGB LED、一个扬声器、三个红外光传感器及三个红外光LED接收器等。此外，这个小小的宠物机器人还有一个遥控器，同时它具备了跟其他Ringo通信的功能。</p>
+<p>如视频所见，Ringo行动起来非常灵活、快速。据悉，这款机器人将预装20种行动模式，当然持有者可以后期加入更多。</p>
+<iframe height="498" width="510" src="https://www.kickstarter.com/projects/plumgeek/ringo-the-palm-size-robot-with-real-personality/widget/video.html" frameborder="0" allowfullscreen></iframe>
+
+<p>虽然Ringo筹款活动距离结束还有14的时间，但显然这是一个受欢迎的项目，截止到发稿前，它已经筹集到了40,763美元，而目标启动资金只需12,000美元。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<blockquote>
+<p>虽然机器宠物已然不是什么陌生的东西，但不得不承认，它们大部分长得还不够可爱甚至有些吓人。<strong>现在，伴随着技术的发展，机器宠物自然也要改变改变，起码它要成为“够资格”的宠物，日前出现在Kickstarter上的Ringo就符合了这个要求。</strong>Ringo看起来像是一只大型甲虫，借助于其体内安装的各种各样的传感器及电子配件，人们可以跟它尽情地“玩耍”了。</p>
+</blockquote>
+<p><img src="http://static.cnbetacdn.com/thumb/article/2015/0306/3e21b5dcb3e35d3.jpg_600x600.jpg" alt=""></p>
+<p><img src="http://static.cnbetacdn.com/thumb/article/2015/0306/6b90f6de08856c7.png_600x600.png" alt=""></p>
+]]>
+    
+    </summary>
+    
+      <category term="科技" scheme="http://xcrdjn.github.io/tags/%E7%A7%91%E6%8A%80/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[无人驾驶让你上班更从容：节约50分钟还有车位]]></title>
@@ -742,82 +775,6 @@
     </summary>
     
       <category term="资讯" scheme="http://xcrdjn.github.io/tags/%E8%B5%84%E8%AE%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[hexo 介绍及安装]]></title>
-    <link href="http://xcrdjn.github.io/2015/01/14/%E9%A6%96%E5%8F%91/"/>
-    <id>http://xcrdjn.github.io/2015/01/14/首发/</id>
-    <published>2015-01-14T07:23:40.000Z</published>
-    <updated>2015-01-14T09:36:16.000Z</updated>
-    <content type="html"><![CDATA[<ul>
-<li><h4 id="自己使用hexo首次发帖，看看使用操作。">自己使用hexo首次发帖，看看使用操作。</h4>
-</li>
-</ul>
-<h4 id="发点有用的吧，为什么使用HEXO（扫盲）及自己搭建流程记录在此。">发点有用的吧，为什么使用HEXO（扫盲）及自己搭建流程记录在此。</h4>
-<p><a id="more"></a></p>
-<h1 id="什么是hexo">什么是<a href="http://zespia.tw/hexo/zh-CN/" target="_blank" rel="external">hexo</a></h1>
-<pre><code>hexo是一个基于Node.js的静态博客程序，可以方便的生成静态网页托管在github和Heroku上。
-</code></pre><p>作者是来自台湾的<a href="https://github.com/tommy351/hexo" target="_blank" rel="external">@tommy351</a>。引用<a href="https://github.com/tommy351/hexo" target="_blank" rel="external">@tommy351</a>的话，<a href="http://zespia.tw/hexo/zh-CN/" target="_blank" rel="external">hexo</a>：</p>
-<pre><code>快速、简单且功能强大的 <span class="variable">Node</span>.js 博客框架。<span class="variable">A</span> fast, simple &amp; powerful blog framework, powered by <span class="variable">Node</span>.js.
-</code></pre><h1 id="为什么要用hexo">为什么要用<a href="http://zespia.tw/hexo/zh-CN/" target="_blank" rel="external">hexo</a></h1>
-<pre><code>还是引用下作者的话：
-
-不可思议的快速 ─ 只要一眨眼静态文件即生成完成
-支持 Markdown
-仅需一道指令即可部署到 GitHub Pages 和 Heroku
-已移植 Octopress 插件
-高扩展性、自订性
-兼容于 Windows, Mac &amp; Linux
-
-易用。不仅部署简单，平时使用中仅需要hexo <span class="keyword">new</span> hexo generate hexo <span class="keyword">server</span> hexo deploy四个命令。不像Jekyll需要很多繁琐的git命令。
-轻。文件少、小，易理解，方便自定义。
-用户多。虽然赶不上Jekyll和Octopress，但遇到什么问题都能搜索到答案，或者找到同样使用hexo的用户进行参考和咨询。
-</code></pre><h1 id="GitHub_Pages是什么？">GitHub Pages是什么？</h1>
-<pre><code><span class="title">GitHub</span> Pages本用于介绍托管在GitHub的项目， 不过，由于他的空间免费稳定，用来做搭建一个博客再好不过了。
-
-github Pages可以被认为是用户编写的、托管在github上的静态网页。
-</code></pre><h3 id="HEXO搭建过程：">HEXO搭建过程：</h3>
-<h4 id="安装流程：">安装流程：</h4>
-<p>大致和官网教程一样：</p>
-<p>主要需要：</p>
-<ul>
-<li><a href="http://nodejs.org/" target="_blank" rel="external">Node.js</a></li>
-<li><a href="http://git-scm.com/" target="_blank" rel="external">Git</a></li>
-</ul>
-<h4 id="安装_Git">安装 Git</h4>
-<ul>
-<li>Windows: Download &amp; install <a href="http://code.google.com/p/msysgit/" target="_blank" rel="external">msysgit</a>.</li>
-<li>Mac: Install it with <a href="http://mxcl.github.com/homebrew/" target="_blank" rel="external">Homebrew</a>, <a href="http://www.macports.org/" target="_blank" rel="external">MacPorts</a> or <a href="http://code.google.com/p/git-osx-installer/" target="_blank" rel="external">installer</a>.</li>
-<li>Linux (Ubuntu, Debian): sudo apt-get install git-core</li>
-<li>Linux (Fedora, Red Hat, CentOS): sudo yum install git-core</li>
-</ul>
-<h4 id="安装_Node-js">安装 Node.js</h4>
-<p>安装 Node.js 的最好方式就是使用 <a href="https://github.com/creationix/nvm" target="_blank" rel="external">nvm</a> 安装.</p>
-<p>cURL:</p>
-<pre><code>$ curl http<span class="variable">s:</span>//raw.github.<span class="keyword">com</span>/creationix/nvm/master/install.<span class="keyword">sh</span> | <span class="keyword">sh</span>
-</code></pre><p>Wget:</p>
-<pre><code>$ wget -qO- http<span class="variable">s:</span>//raw.github.<span class="keyword">com</span>/creationix/nvm/master/install.<span class="keyword">sh</span> | <span class="keyword">sh</span>
-</code></pre><p>Once installed, restart the terminal and run the following command to install Node.js.</p>
-<pre><code><span class="variable">$ </span>nvm install <span class="number">0</span>.<span class="number">10</span>
-</code></pre><p>Or you can download the installer and install it.<br>Install Hexo</p>
-<p>Once all the requirements are installed, you can install Hexo with npm.</p>
-<pre><code><span class="variable">$ </span>npm install -g hexo
-</code></pre><h4 id="注意：">注意：</h4>
-<p>运行 hexo ,需要在命令行执行 nvm run 0.10， 再执行命令hexo</p>
-]]></content>
-    <summary type="html">
-    <![CDATA[<ul>
-<li><h4 id="自己使用hexo首次发帖，看看使用操作。">自己使用hexo首次发帖，看看使用操作。</h4>
-</li>
-</ul>
-<h4 id="发点有用的吧，为什么使用HEXO（扫盲）及自己搭建流程记录在此。">发点有用的吧，为什么使用HEXO（扫盲）及自己搭建流程记录在此。</h4>
-<p>]]>
-    
-    </summary>
-    
-      <category term="HEXO" scheme="http://xcrdjn.github.io/tags/HEXO/"/>
     
   </entry>
   
