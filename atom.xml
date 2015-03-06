@@ -4,7 +4,7 @@
   <subtitle><![CDATA[学习，积累，提高，感悟，前进。。。]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://xcrdjn.github.io/"/>
-  <updated>2015-03-06T01:58:05.250Z</updated>
+  <updated>2015-03-06T02:10:37.382Z</updated>
   <id>http://xcrdjn.github.io/</id>
   
   <author>
@@ -13,6 +13,43 @@
   </author>
   
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[微软全息设备HoloLens一开发成员在车祸中丧生]]></title>
+    <link href="http://xcrdjn.github.io/2015/03/06/%E5%BE%AE%E8%BD%AF%E5%85%A8%E6%81%AF%E8%AE%BE%E5%A4%87HoloLens%E4%B8%80%E5%BC%80%E5%8F%91%E6%88%90%E5%91%98%E5%9C%A8%E8%BD%A6%E7%A5%B8%E4%B8%AD%E4%B8%A7%E7%94%9F/"/>
+    <id>http://xcrdjn.github.io/2015/03/06/微软全息设备HoloLens一开发成员在车祸中丧生/</id>
+    <published>2015-03-06T02:06:03.000Z</published>
+    <updated>2015-03-06T02:10:33.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://www.cnbeta.com/articles/374743.htm" target="_blank" rel="external">(摘自CNBeta)</a></p>
+<blockquote>
+<p>美国东部时间2月28日周六早晨，微软总部所在地华盛顿州雷德蒙市发生了一起交通肇事逃逸事故。事故的受害者正是开发微软虚拟增强眼镜HoloLens团队的成员之一 Mike Ey，年仅30岁的他不幸身亡。Mike Ey为人可靠受同事爱戴，他对HoloLens项目的所有热情都葬送在这场事故之中。事后肇事司机已被警方逮捕，他将面临不当行驶致死及肇事逃逸两项重罪 指控，目前当地法官同意他以10万美元的保释金进行保释。</p>
+</blockquote>
+<p><img src="http://static.cnbetacdn.com/article/2015/0305/f72df4265d3a659.png" alt=""></p>
+<a id="more"></a>
+
+<p>据一名目击者回忆，事故发生时，肇事司机Robert Malsch驾车以超过160公里的时速在520州际公路上飞驰，与目击者的车辆擦身而过，随后撞向了Mike Ey的车辆尾部。导致Mike Ey死亡，随后驾车逃离车祸现场。据Mike Ey的亲朋好友回忆，Ey不但是一位最可靠的朋友，会在充分了解问题后在技术上提供最详细的帮助。同时他在微软工作时也充满着热情，向往着将 Hololens全息技术逐步转化为现实，一心致力与该技术的开发</p>
+<p><img src="http://static.cnbetacdn.com/article/2015/0305/46eb52fc2f8b4c1.jpg" alt=""></p>
+<p>  事故车辆</p>
+<p><img src="http://static.cnbetacdn.com/article/2015/0305/f9852462230c5bb.png" alt=""></p>
+<p>  Mike Ey</p>
+<p><img src="http://static.cnbetacdn.com/article/2015/0305/2f7b7025f58a825.png" alt=""></p>
+<p>  Mike Ey（左二）与其女友及朋友</p>
+<p><img src="http://static.cnbetacdn.com/article/2015/0305/614123fcef4ed43.png" alt=""></p>
+<p>  开朗为人可靠的Mike Ey</p>
+<p><img src="http://static.cnbetacdn.com/thumb/article/2015/0305/1900b56e3f183cb.jpg_600x600.jpg" alt=""></p>
+<p>  肇事司机</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><a href="http://www.cnbeta.com/articles/374743.htm" target="_blank" rel="external">(摘自CNBeta)</a></p>
+<blockquote>
+<p>美国东部时间2月28日周六早晨，微软总部所在地华盛顿州雷德蒙市发生了一起交通肇事逃逸事故。事故的受害者正是开发微软虚拟增强眼镜HoloLens团队的成员之一 Mike Ey，年仅30岁的他不幸身亡。Mike Ey为人可靠受同事爱戴，他对HoloLens项目的所有热情都葬送在这场事故之中。事后肇事司机已被警方逮捕，他将面临不当行驶致死及肇事逃逸两项重罪 指控，目前当地法官同意他以10万美元的保释金进行保释。</p>
+</blockquote>
+<p><img src="http://static.cnbetacdn.com/article/2015/0305/f72df4265d3a659.png" alt=""></p>
+]]>
+    
+    </summary>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[像人一样进化：科学家为机器人设计自然选择]]></title>
