@@ -4,7 +4,7 @@
   <subtitle><![CDATA[学习，积累，提高，感悟，前进。。。]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://xcrdjn.github.io/"/>
-  <updated>2015-03-06T08:41:11.506Z</updated>
+  <updated>2015-03-06T08:45:48.698Z</updated>
   <id>http://xcrdjn.github.io/</id>
   
   <author>
@@ -19,7 +19,7 @@
     <link href="http://xcrdjn.github.io/2015/03/06/%E5%8F%AA%E6%9C%89%E6%89%8B%E6%8E%8C%E8%88%AC%E5%A4%A7%E5%B0%8F%E7%9A%84%E2%80%9C%E8%90%8C%E5%AE%A0%E2%80%9D%E6%9C%BA%E5%99%A8%E4%BA%BA/"/>
     <id>http://xcrdjn.github.io/2015/03/06/只有手掌般大小的“萌宠”机器人/</id>
     <published>2015-03-06T08:36:52.000Z</published>
-    <updated>2015-03-06T08:41:08.000Z</updated>
+    <updated>2015-03-06T08:45:41.000Z</updated>
     <content type="html"><![CDATA[<blockquote>
 <p>虽然机器宠物已然不是什么陌生的东西，但不得不承认，它们大部分长得还不够可爱甚至有些吓人。<strong>现在，伴随着技术的发展，机器宠物自然也要改变改变，起码它要成为“够资格”的宠物，日前出现在Kickstarter上的Ringo就符合了这个要求。</strong>Ringo看起来像是一只大型甲虫，借助于其体内安装的各种各样的传感器及电子配件，人们可以跟它尽情地“玩耍”了。</p>
 </blockquote>
@@ -29,7 +29,7 @@
 
 <p>据了解，Ringo用了一块Arduino UNO处理器，另外它的主要配件还有一个三轴加速传感器、三轴陀螺仪、环境光传感器、六盏RGB LED、一个扬声器、三个红外光传感器及三个红外光LED接收器等。此外，这个小小的宠物机器人还有一个遥控器，同时它具备了跟其他Ringo通信的功能。</p>
 <p>如视频所见，Ringo行动起来非常灵活、快速。据悉，这款机器人将预装20种行动模式，当然持有者可以后期加入更多。</p>
-<iframe height="498" width="510" src="https://www.kickstarter.com/projects/plumgeek/ringo-the-palm-size-robot-with-real-personality/widget/video.html" frameborder="0" allowfullscreen></iframe>
+<iframe height="380" width="510" src="https://www.kickstarter.com/projects/plumgeek/ringo-the-palm-size-robot-with-real-personality/widget/video.html" frameborder="0" allowfullscreen></iframe>
 
 <p>虽然Ringo筹款活动距离结束还有14的时间，但显然这是一个受欢迎的项目，截止到发稿前，它已经筹集到了40,763美元，而目标启动资金只需12,000美元。</p>
 ]]></content>
