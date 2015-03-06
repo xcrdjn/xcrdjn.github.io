@@ -4,7 +4,7 @@
   <subtitle><![CDATA[学习，积累，提高，感悟，前进。。。]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://xcrdjn.github.io/"/>
-  <updated>2015-03-06T02:10:37.382Z</updated>
+  <updated>2015-03-06T06:33:44.011Z</updated>
   <id>http://xcrdjn.github.io/</id>
   
   <author>
@@ -15,11 +15,136 @@
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
   
   <entry>
+    <title><![CDATA[无人驾驶让你上班更从容：节约50分钟还有车位]]></title>
+    <link href="http://xcrdjn.github.io/2015/03/06/%E6%97%A0%E4%BA%BA%E9%A9%BE%E9%A9%B6%E8%AE%A9%E4%BD%A0%E4%B8%8A%E7%8F%AD%E6%9B%B4%E4%BB%8E%E5%AE%B9/"/>
+    <id>http://xcrdjn.github.io/2015/03/06/无人驾驶让你上班更从容/</id>
+    <published>2015-03-06T06:19:41.000Z</published>
+    <updated>2015-03-06T06:33:28.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://www.cnbeta.com/articles/375131.htm" target="_blank" rel="external">(摘自CNBeta)</a></p>
+<blockquote>
+<p><strong>管理咨询公司麦肯锡的最新报告显示，无人驾驶汽车的广泛普及每年将节省数十亿工时，但短期内难以实现。</strong>该报告认为，由软件驱动的汽车已经开始商用，矿业公司和农场都已经在一定范围内采用了这类设备。但该报告的作者认为，无人驾驶汽车最早也要到2040年才能广泛普及。虽然谷歌的无人驾驶汽车商用计划远早于这个时期，但麦肯锡认为这只会局限于一些狂热的早期用户。</p>
+</blockquote>
+<p><img src="http://static.cnbetacdn.com/article/2015/0306/389da07a0b528d6.jpg" alt=""></p>
+<a id="more"></a>
+
+<p>不过，一旦无人驾驶汽车广泛普及，影响将会十分巨大。麦肯锡估计，每天因为通勤而开车的驾驶员超过10亿，他们每人每天都将因为无人驾驶汽车节约50分钟时间。这些节约下来的时间可能用于工作，也可以用来使用社交网站或网上购物，这每天都可以为相关企业的股东创造55亿美元价值。</p>
+<p>另外，自动泊车功能也可以为城市释放更多的停车位。自动泊车系统可以缩短汽车的停靠距离。到2050年，因为这类系统的普及以及无人驾驶汽车导致的私家车数量减少，仅在美国就可节约57亿平方米的土地。</p>
+<p>与此同时，无人驾驶汽车还有可能大幅降低道路上的人员死亡率和受伤率。麦肯锡估计，目前每年因为交通事故造成的经济损失约为2120亿美元，而无人驾驶汽车可以将这一数字降至300亿美元。</p>
+<p>但这类汽车的普及还将颠覆一些行业。麦肯锡指出，保险公司将因此对整个车险行业进行调整，难以继续向成千上万的驾驶员销售车险，只能转而向汽车生产企业销售技术故障险。</p>
+<p>另外，由于无人驾驶汽车可以自行前往大型修理厂接受维修，所以很多小型修理厂都将因此关门。</p>
+<p>但麦肯锡忽略了一个重要问题：倘若无人驾驶汽车成为主流，数以百万的客车、卡车和出租车司机都将因此失业</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><a href="http://www.cnbeta.com/articles/375131.htm" target="_blank" rel="external">(摘自CNBeta)</a></p>
+<blockquote>
+<p><strong>管理咨询公司麦肯锡的最新报告显示，无人驾驶汽车的广泛普及每年将节省数十亿工时，但短期内难以实现。</strong>该报告认为，由软件驱动的汽车已经开始商用，矿业公司和农场都已经在一定范围内采用了这类设备。但该报告的作者认为，无人驾驶汽车最早也要到2040年才能广泛普及。虽然谷歌的无人驾驶汽车商用计划远早于这个时期，但麦肯锡认为这只会局限于一些狂热的早期用户。</p>
+</blockquote>
+<p><img src="http://static.cnbetacdn.com/article/2015/0306/389da07a0b528d6.jpg" alt=""></p>
+]]>
+    
+    </summary>
+    
+      <category term="科技" scheme="http://xcrdjn.github.io/tags/%E7%A7%91%E6%8A%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[PiJuice - 为树莓派供电 可连续运行6小时]]></title>
+    <link href="http://xcrdjn.github.io/2015/03/06/%E5%8F%AF%E8%BF%9E%E7%BB%AD%E8%BF%90%E8%A1%8C6%E5%B0%8F%E6%97%B6/"/>
+    <id>http://xcrdjn.github.io/2015/03/06/可连续运行6小时/</id>
+    <published>2015-03-06T05:42:18.000Z</published>
+    <updated>2015-03-06T06:32:53.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://www.cnbeta.com/articles/374937.htm" target="_blank" rel="external">(摘自CNBeta)</a></p>
+<blockquote>
+<p><strong>专门为树莓派设计的PiJuice供电产品正在众筹网站上募集资金。</strong>这款产品旨在移动中提供电力，使树莓派更加便于携带。PiJuice是相当简单的设备。它采用可充点1400毫安时锂离子电池为树莓派提供电力，并且与树莓派的HAT布局兼容，采用RGB LED显示状态，并且支持树莓派的电源管理软件。</p>
+</blockquote>
+<p>PiJuice工作时利用到树莓派主板上5个GPIO引脚，带有实时时钟，使其能够独立维持时间轨迹，附带的软件允许在电量不多的情况下，让其进入睡眠模式，研发小组估计，所提供的1400毫安时电池将让树莓派连续运行6个小时。</p>
+<p>研发团队正在努力拿出5000和10000毫安时电池，分别可以让树莓派连续运行16和28小时。另外，研发团队还将拿出一款PiJuice太阳能电池板为树莓派供电，方便树莓派在户外环境当中使用，比如安全摄像系或者气象观测站等等。</p>
+<p><img src="http://static.cnbetacdn.com/article/2015/0306/48fe4da3c6ed51b.jpg" alt=""></p>
+<p><img src="http://static.cnbetacdn.com/article/2015/0306/df4807ebd8ac82c.jpg" alt=""></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><a href="http://www.cnbeta.com/articles/374937.htm" target="_blank" rel="external">(摘自CNBeta)</a></p>
+<blockquote>
+<p><strong>专门为树莓派设计的Pi]]>
+    </summary>
+    
+      <category term="树莓派" scheme="http://xcrdjn.github.io/tags/%E6%A0%91%E8%8E%93%E6%B4%BE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[德国科学家开发自动滚动屏幕内容的装置]]></title>
+    <link href="http://xcrdjn.github.io/2015/03/06/%E5%BE%B7%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%BC%80%E5%8F%91%E8%87%AA%E5%8A%A8%E6%BB%9A%E5%8A%A8%E5%B1%8F%E5%B9%95%E5%86%85%E5%AE%B9%E7%9A%84%E8%A3%85%E7%BD%AE/"/>
+    <id>http://xcrdjn.github.io/2015/03/06/德国科学家开发自动滚动屏幕内容的装置/</id>
+    <published>2015-03-06T05:36:55.000Z</published>
+    <updated>2015-03-06T05:38:22.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://www.cnbeta.com/articles/374833.htm" target="_blank" rel="external">(摘自CNBeta)</a></p>
+<blockquote>
+<p>来自德国萨尔布吕肯大学及德国人工智能研究中心的科学家共同开发出了一种新型装置系统，<strong>旨在解决电脑屏幕文本滚动难题。这个装置能够跟踪人类眼球的视线，根据指向屏幕的视线和眼睛的运动习惯，自动实现屏幕上内容滚动的操作。</strong></p>
+</blockquote>
+<p><img src="http://static.cnbetacdn.com/thumb/article/2015/0305/97452d4760539be.jpg_600x600.jpg" alt=""></p>
+<p>这种装置类似与谷歌眼镜之类的可穿戴设备，配备两种不同朝向的远红外相机，一个跟踪佩戴者的眼镜动作，另一个指向电子屏幕。前者会跟踪佩戴者眼球的运动及视线方向，而后者会追踪屏幕上的信息，并判断佩戴者目前视线正处于哪段文本上。通过加载的软件，计算机会滚动屏幕并确保目前正在查看的文本行居于屏幕郑重，系统实时工作并根据使用者阅读的速度自动调整滚动的速度。</p>
+<p>目前该科研团队已经实现了在同一屏幕上，三个不同的使用者佩戴该装置分别阅读三个不同的文本窗口，并实现自动滚屏操作。开发团队希望这种装置在未来能够集成进类似谷歌眼镜的可穿戴设备中去。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><a href="http://www.cnbeta.com/articles/374833.htm" target="_blank" rel="external">(摘自CNBeta)</a></p>
+<blockquote>
+<p>来自德国萨尔布吕肯大学及德国人工智能研]]>
+    </summary>
+    
+      <category term="科技" scheme="http://xcrdjn.github.io/tags/%E7%A7%91%E6%8A%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[更聪明的计算机：向大自然学习，为人类健康带去福音]]></title>
+    <link href="http://xcrdjn.github.io/2015/03/06/%E6%9B%B4%E8%81%AA%E6%98%8E%E7%9A%84%E8%AE%A1%E7%AE%97%E6%9C%BA%EF%BC%9A%E5%90%91%E5%A4%A7%E8%87%AA%E7%84%B6%E5%AD%A6%E4%B9%A0%EF%BC%8C%E4%B8%BA%E4%BA%BA%E7%B1%BB%E5%81%A5%E5%BA%B7%E5%B8%A6%E5%8E%BB%E7%A6%8F%E9%9F%B3/"/>
+    <id>http://xcrdjn.github.io/2015/03/06/更聪明的计算机：向大自然学习，为人类健康带去福音/</id>
+    <published>2015-03-06T02:30:43.000Z</published>
+    <updated>2015-03-06T02:33:43.000Z</updated>
+    <content type="html"><![CDATA[<p><a href="http://www.cnbeta.com/articles/374769.htm" target="_blank" rel="external">(摘自CNBeta)</a></p>
+<blockquote>
+<p>计算机越来越多地被运用到了与医疗健康有关的方方面面，但是计算机通常只能按照你所发出的指令去行事。计算机的编程指令已经决定了它们能够如何工作，如果你想要一台更聪明的电脑，那么你就必须得为它可能所处的每一个情境进行编程设计。<strong>这几十年来，人们一直梦想着能够让电脑从它已有的经验中「学习」并最终超越自身已被设定好的程序，我们通常称这一过程为机器学习。</strong></p>
+</blockquote>
+<p><img src="http://static.cnbetacdn.com/article/2015/0305/24ebc7b994a9d67.jpg" alt=""></p>
+<a id="more"></a>
+
+<p>最近几年中，由于计算机算法得到了极大的发展，进一步让人们对于更高要求的机器学习的梦想化为现实。取得这一成功的关键因素就是从大自然的演化中汲取灵感，在软件中集合生物演化的智慧。这一灵感的实现依赖于模拟自然演化过程，这种方法通常被称作演化算法。</p>
+<p>像大多数人知道的那样，物竞天择的自然选择理论其实就是说明物种会随着时间的推移而演化的更加适应他们的生存环境。自然界里的个体会演化出独特的特征，这些特征将会使得个体更好地生存下去（比如说通过更好的环境伪装来逃避捕食者）。这些存活下来的独特个体将会繁育出更多的后代，并进一步将他们的特性传给子孙后代。</p>
+<p>当这一过程被搬到计算机中，源于自然界灵感的演化算法同样可以应用在解决工程问题与数学问题上。该算法可以推算出复杂问题的多种潜在解决方案的「适应性」，由此来判断出每一个解决方案的优劣。好的解决方案被留了下来，而表现不佳的解决方案自然就被淘汰了。</p>
+<p><img src="http://static.cnbetacdn.com/thumb/article/2015/0305/c3a36a99caa88ef.jpg_600x600.jpg" alt=""></p>
+<p>Lawrence Fogel 博士是一位人工智能方面的先驱，他在 1966 年就写了第一本关于演化算法的书，在 1993 年他成立了 Nature Selection 公司（NSI）。在 Lawrence 博士 2007 年去世之后，他的两个儿子 David 博士与 Gary 博士继承了他的衣钵，将演化算法应用到了更广泛的领域中。David 博士提出了一些关于演化算法将如何影响到医疗健康领域各个方面的有价值的见解，以下就是一些非常有意思的例子：</p>
+<h3 id="以人口数据为基础改进药物开发">以人口数据为基础改进药物开发</h3>
+<p>演化算法可以帮助医生在正确的时间给特定的病人使用最合适的药物，类似的应用程序已经被 Theragence 这样的公司开发出来了。该程序从大量来自不同数据源的数据中收集到准确且有效的医疗诊断，在这些患者的个人信息数据中包括了人口统计学信息与基因档案。这种技术可以帮助医生从二期临床数据中判断出哪一类特定药物最为有效，同时该技术也可以帮助制药公司更有针对性地去改进三期临床药物。</p>
+<h3 id="个性化医疗诊断">个性化医疗诊断</h3>
+<p>个性化医疗在近年来受到了越来越多人的关注，演化算法可以通过收集分析来自患者对于药物与治疗方式是否有效的反馈，帮助其制定有针对性的医疗方案。比方说被耳鸣困扰的患者通常会使用其他声音或者噪音来掩盖耳鸣，在美国科学基金会的资助下，NSI 公司使用机器学习技术帮助耳鸣患者适应这些用来掩盖耳鸣的声音的存在，在耳鸣患者即使在不使用这些外部声源之后也能缓解症状。</p>
+<h3 id="改进干细胞疗法">改进干细胞疗法</h3>
+<p>机器学习技术已经被运用到了干细胞领域的研究之中，这是一个相当有趣的研究领域。在干细胞研究中使用该技术的目标是提取干细胞分化的机制，从而得到更多有益的干细胞疗法。干细胞是具有多向分化功能和自我复制能力的原始的未分化细胞，随着进一步的分化才会具备特殊功能。被称为小分子核糖核酸的一种特殊的核糖核酸决定了干细胞的分化方向。机器学习技术可以识别出哪些因素在核糖核酸演化过程中发挥了作用，帮助研究人员快速地理解并对该系统进行调节。</p>
+<h3 id="预测病毒随着时间推移会如何改变">预测病毒随着时间推移会如何改变</h3>
+<p>演化算法能够帮助临床医生与研究人员弄明白在病人感染了 HIV 病毒之后，病毒会如何演化。HIV 病毒在感染者体内会不断产生变化，而这种变化后的病毒会攻击不同类型的器官组织。被美国国立卫生研究院以及美国国家科学基金会资助的公司比如 BioinoExperts 已经用实践证明了演化算法可以帮助识别和预测病毒将如何随着时间的推移而发生变化，这一结果可能将促使研究人员开发出更有效的治疗方法。</p>
+<p>从许多方面来看，想要让医疗健康领域产出更多成果并不需要追寻新的革命性方式，也许人们仅仅需要对于已经运行了数十亿年的大自然投以更多的关注。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><a href="http://www.cnbeta.com/articles/374769.htm" target="_blank" rel="external">(摘自CNBeta)</a></p>
+<blockquote>
+<p>计算机越来越多地被运用到了与医疗健康有关的方方面面，但是计算机通常只能按照你所发出的指令去行事。计算机的编程指令已经决定了它们能够如何工作，如果你想要一台更聪明的电脑，那么你就必须得为它可能所处的每一个情境进行编程设计。<strong>这几十年来，人们一直梦想着能够让电脑从它已有的经验中「学习」并最终超越自身已被设定好的程序，我们通常称这一过程为机器学习。</strong></p>
+</blockquote>
+<p><img src="http://static.cnbetacdn.com/article/2015/0305/24ebc7b994a9d67.jpg" alt=""></p>
+]]>
+    
+    </summary>
+    
+      <category term="科技" scheme="http://xcrdjn.github.io/tags/%E7%A7%91%E6%8A%80/"/>
+    
+  </entry>
+  
+  <entry>
     <title><![CDATA[微软全息设备HoloLens一开发成员在车祸中丧生]]></title>
     <link href="http://xcrdjn.github.io/2015/03/06/%E5%BE%AE%E8%BD%AF%E5%85%A8%E6%81%AF%E8%AE%BE%E5%A4%87HoloLens%E4%B8%80%E5%BC%80%E5%8F%91%E6%88%90%E5%91%98%E5%9C%A8%E8%BD%A6%E7%A5%B8%E4%B8%AD%E4%B8%A7%E7%94%9F/"/>
     <id>http://xcrdjn.github.io/2015/03/06/微软全息设备HoloLens一开发成员在车祸中丧生/</id>
     <published>2015-03-06T02:06:03.000Z</published>
-    <updated>2015-03-06T02:10:33.000Z</updated>
+    <updated>2015-03-06T02:12:58.000Z</updated>
     <content type="html"><![CDATA[<p><a href="http://www.cnbeta.com/articles/374743.htm" target="_blank" rel="external">(摘自CNBeta)</a></p>
 <blockquote>
 <p>美国东部时间2月28日周六早晨，微软总部所在地华盛顿州雷德蒙市发生了一起交通肇事逃逸事故。事故的受害者正是开发微软虚拟增强眼镜HoloLens团队的成员之一 Mike Ey，年仅30岁的他不幸身亡。Mike Ey为人可靠受同事爱戴，他对HoloLens项目的所有热情都葬送在这场事故之中。事后肇事司机已被警方逮捕，他将面临不当行驶致死及肇事逃逸两项重罪 指控，目前当地法官同意他以10万美元的保释金进行保释。</p>
@@ -29,15 +154,15 @@
 
 <p>据一名目击者回忆，事故发生时，肇事司机Robert Malsch驾车以超过160公里的时速在520州际公路上飞驰，与目击者的车辆擦身而过，随后撞向了Mike Ey的车辆尾部。导致Mike Ey死亡，随后驾车逃离车祸现场。据Mike Ey的亲朋好友回忆，Ey不但是一位最可靠的朋友，会在充分了解问题后在技术上提供最详细的帮助。同时他在微软工作时也充满着热情，向往着将 Hololens全息技术逐步转化为现实，一心致力与该技术的开发</p>
 <p><img src="http://static.cnbetacdn.com/article/2015/0305/46eb52fc2f8b4c1.jpg" alt=""></p>
-<p>  事故车辆</p>
+<p>事故车辆</p>
 <p><img src="http://static.cnbetacdn.com/article/2015/0305/f9852462230c5bb.png" alt=""></p>
-<p>  Mike Ey</p>
+<p>Mike Ey</p>
 <p><img src="http://static.cnbetacdn.com/article/2015/0305/2f7b7025f58a825.png" alt=""></p>
-<p>  Mike Ey（左二）与其女友及朋友</p>
+<p>Mike Ey（左二）与其女友及朋友</p>
 <p><img src="http://static.cnbetacdn.com/article/2015/0305/614123fcef4ed43.png" alt=""></p>
-<p>  开朗为人可靠的Mike Ey</p>
+<p>开朗为人可靠的Mike Ey</p>
 <p><img src="http://static.cnbetacdn.com/thumb/article/2015/0305/1900b56e3f183cb.jpg_600x600.jpg" alt=""></p>
-<p>  肇事司机</p>
+<p>肇事司机</p>
 ]]></content>
     <summary type="html">
     <![CDATA[<p><a href="http://www.cnbeta.com/articles/374743.htm" target="_blank" rel="external">(摘自CNBeta)</a></p>
